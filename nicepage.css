@@ -45961,6 +45961,7 @@ a.u-link.u-text-hover-color-var:hover {
 .u-header .u-nav-1 {
   font-weight: 500;
   font-size: 1rem;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
@@ -45980,10 +45981,6 @@ a.u-link.u-text-hover-color-var:hover {
 
   .u-header .u-hamburger-link-1 {
     font-size: calc(1em + 8.96875px);
-  }
-
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
   }
 }
 @media (max-width: 991px) {
